@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Atif Chowdhury, a Computer Science and Data Science student at UW-Madison with a growing passion for cybersecurity and software engineering. I’m actively learning about secure coding practices, software development, and system protection as I work on academic projects and personal explorations. I aim to apply my knowledge to build innovative and secure solutions in the future. Let’s connect to share ideas and collaborate!
+Hi, I’m Atif Chowdhury, a Computer Science and Data Science student at UW-Madison with a growing passion for cybersecurity and software engineering. I’m actively learning about secure coding practices, software development, and system protection as I work on academic projects and personal explorations. I aim to apply my knowledge to build innovative and secure solutions in the future.
 
 
 ## 🌐 Socials:
